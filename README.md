@@ -1,9 +1,10 @@
 # dicMergeDuplicate
 合并两个字典并去重
-示例字典来源：Layer子域名挖掘机中的字典和https://github.com/DNSPod/oh-my-free-data
+# 示例字典来源
+Layer子域名挖掘机中的字典和https://github.com/DNSPod/oh-my-free-data
 
 # mergeDic.py
-目的：将两个字典合并w为一个字典并去重
+目的：将两个字典合并为一个字典并去重
 
 
 # 过程：
